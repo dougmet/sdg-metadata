@@ -2,7 +2,7 @@
 prose:
   metadata:
     ############ Page Data ############
-    /:
+    "":
       - name: "title"
         field:
             element: text
