@@ -1,8 +1,6 @@
 # Prose configuration
 prose:
-  ignore: ['/assets', '/_includes', '/_layouts', '/scripts', '/sass' ]
   metadata:
-    _indicators:
     ############ Page Data ############
       - name: "title"
         field:
